@@ -41,3 +41,5 @@ vps_manager_menu() {
         press_enter_to_continue
     done
 }
+
+vps_manager_menu
